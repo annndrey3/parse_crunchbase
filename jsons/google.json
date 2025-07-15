@@ -1,0 +1,14 @@
+{
+  "name": "Google",
+  "description": "Google is a technology company that offers a search engine, that enables users to find information from various online sources, along with services such as email through Gmail, cloud storage via Google Drive, and productivity tools including Google Docs and Google Sheets; it also provides advertising solutions through Google Ads, video sharing via",
+  "profile_url": "https://www.crunchbase.com/organization/google",
+  "contacts": {
+    "emails": [
+      "google@google.com"
+    ]
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com/Google",
+    "linkedin": "https://www.linkedin.com/company/google"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Stripe",
+  "description": "Stripe is a technology company that builds economic infrastructure for the Internet. Stripe is a platform for commercial finance infrastructure. Stripe is used by millions of businesses, ranging from the biggest corporations in the world to the most ambitious startups, to take payments, increase revenue, and open up new business prospects.",
+  "profile_url": "https://www.crunchbase.com/organization/stripe",
+  "contacts": {
+    "emails": [
+      "info@stripe.com"
+    ],
+    "phones": [
+      "1 415 298 5539"
+    ]
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com/StripeHQ",
+    "linkedin": "https://www.linkedin.com/company/stripe"
+  }
+}

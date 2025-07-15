@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "cheerio": "^1.1.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0",
+    "fs-extra": "^11.3.0",
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^24.12.1",
+    "puppeteer-core": "^21.3.8",
+    "yargs": "^18.0.0"
+  }
+}

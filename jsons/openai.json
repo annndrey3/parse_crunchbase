@@ -1,0 +1,17 @@
+{
+  "name": "OpenAI",
+  "description": "OpenAI is an AI research and deployment company that conducts research and develops machine learning technologies. OpenAI works on projects that involve autonomous learning and task performance. It serves industries such as technology, healthcare, and education.",
+  "profile_url": "https://www.crunchbase.com/organization/openai",
+  "contacts": {
+    "emails": [
+      "support@openai.com"
+    ],
+    "phones": [
+      "1 800 217 3145"
+    ]
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com/openai",
+    "linkedin": "https://www.linkedin.com/company/openai"
+  }
+}

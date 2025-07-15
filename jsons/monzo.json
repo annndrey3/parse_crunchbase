@@ -1,0 +1,17 @@
+{
+  "name": "Monzo",
+  "description": "Monzo (previously Mondo) is a bank for people who live their lives on their smartphones and is targeted at people who want to get things done with a click and who don’t see the need for branches and checkbooks. One of the key features that distinguishes Monzo from traditional banks is its app-based approach, which provides users with real-time",
+  "profile_url": "https://www.crunchbase.com/organization/monzo",
+  "contacts": {
+    "emails": [
+      "hello@monzo.com"
+    ],
+    "phones": [
+      "0800 8021456"
+    ]
+  },
+  "social_links": {
+    "facebook": "https://www.facebook.com/monzobank",
+    "linkedin": "https://www.linkedin.com/company/monzo-bank"
+  }
+}
