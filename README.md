@@ -102,5 +102,3 @@ node crunchbase_pipeline.js --parse-html --filter microsoft
 ---
 
 ## Контакты
-
-Вопросы и предложения — пишите в Issues или Telegram. 
